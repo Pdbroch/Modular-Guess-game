@@ -1,6 +1,6 @@
 from Functions import top_scores, play_game, get_score_list
 
-
+# Currently requires text file with empty list to function.
 while True:
     selection = input("Would you like to A) play a new game, B) see the best scores, or C) quit?")
 
